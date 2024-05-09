@@ -1,2 +1,2 @@
 # Python-site-e-sistema
-Python site e sistema de zap
+Python criando site e sistema zap.
